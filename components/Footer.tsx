@@ -12,8 +12,8 @@ const Footer: React.FC = () => {
           {/* Brand Col */}
           <div className="space-y-6">
             <div className="flex items-center space-x-2">
-              <Truck className="w-8 h-8 text-amber-500" />
-              <span className="text-2xl font-bold text-white">{BRAND_NAME}</span>
+              <img src="https://res.cloudinary.com/dy3myxhnf/image/upload/v1767808979/NewLogo_ctgxys.png" height={100} width={150} alt="" />
+              
             </div>
             <p className="text-slate-400 text-sm leading-relaxed">
               Professional road transport and logistics solutions based in Verona. 
